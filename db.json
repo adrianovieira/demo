@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "pastasITVP": [
+  "itvp-folders": [
     {
       "id": 1,
       "titulo": "Jornalismo",
@@ -23,7 +23,7 @@
       "rssURL": "http://master.itvrp.ebc.com.br/feed?vspace=53535290&all_vs=false"
     }
   ],
-  "itemsITVP": [
+  "itvp-items": [
     {
       "file": "mov",
       "guid": 1,
