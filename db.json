@@ -10,5 +10,54 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "pastasITVP": [
+    {
+      "id": 1,
+      "titulo": "Jornalismo",
+      "rssURL": "http://master.itvrp.ebc.com.br/feed?vspace=53535310&all_vs=false"
+    },
+    {
+      "id": 2,
+      "titulo": "Programação",
+      "rssURL": "http://master.itvrp.ebc.com.br/feed?vspace=53535290&all_vs=false"
+    }
+  ],
+  "itemsITVP": [
+    {
+      "file": "mov",
+      "guid": 1,
+      "name": "Castle Lorem Dolor.mov",
+      "title": "Lorem Ipsum Dolor",
+      "sinopseReduzida": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "file": "mov",
+      "guid": 2,
+      "name": "Funny Lorem Ipsum Dolor.mov",
+      "title": "Lorem Ipsum laboris",
+      "sinopseReduzida": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "file": "mov",
+      "guid": 3,
+      "name": "Lorem Ipsum Dolor.mov",
+      "title": "Lorem Ipsum aliquip",
+      "sinopseReduzida": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "file": "mov",
+      "guid": 4,
+      "name": "Castle Lorem Ipsum.mov",
+      "title": "Lorem Ipsum amet",
+      "sinopseReduzida": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+      "file": "mov",
+      "guid": "p5",
+      "name": "Castle Lorem Ipsum.mov",
+      "title": "Lorem Ipsum amet",
+      "sinopseReduzida": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    }
+  ]
 }
